@@ -1,0 +1,78 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 450,
+  "title": {"text":"Australian Public Universities Students in 2021", "fontSize": 24, "subtitle": "by Citizenship", "subtitleFontSize": 20},
+  "projection": {
+    "parallels": [-16, -37],
+    "rotate": [-134, 0, 0],
+    "type": "conicEqualArea"
+  },
+  "view": {"stroke": "transparent"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/jjin0021/HW_W9/main/js/ne_50m.topojson",
+        "format": {"type": "topojson", "feature": "ne_50m_graticules_10"}
+      },
+      "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/jjin0021/HW_W9/main/js/ne_50m.topojson",
+        "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
+      },
+      "mark" : {"type": "geoshape", "fill": "darkgray", "stroke": "white"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/jjin0021/HW_W9/main/data/aus_pub_uni.csv"
+      },
+      "transform": [
+        {"filter": "datum.Year == 2021"}
+      ],
+      "mark": {"type": "circle"},
+      "encoding": {
+        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "latitude": {"field": "Latitude", "type": "quantitative"},
+        "size" : {
+          "aggregate": "sum",
+          "field": "Count",
+          "type": "quantitative",
+          "title": "Number of Students",
+          "scale": {
+            "domain": [1000, 300000],
+            "range": [10, 3000]
+          },
+          "legend": {"orient": "none", "legendX": 50, "legendY": 475, "direction": "horizontal", "labelFontSize": 11, "titleFontSize": 16, "titleOrient": "left"}
+        },
+        "color": {
+          "field": "Citizenship",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Domestic",
+              "International"
+            ],
+            "range": [
+              "#4138af",
+              "#ffe330"
+            ]
+          },
+          "legend": {"orient": "none", "legendX": 700, "legendY": 15, "symbolSize": 500, "labelFontSize": 11, "titleFontSize": 16}
+        },
+        "opacity": {"value": 0.8},
+        "tooltip": [
+          {"field": "State"},
+          {"field": "Year"},
+          {"field": "Citizenship"},
+          {"aggregate": "sum", 
+            "field": "Count", 
+            "type": "quantitative",
+            "title": "Number of Students",
+            "format": ","}
+        ]
+      }
+    }
+  ]
+}
