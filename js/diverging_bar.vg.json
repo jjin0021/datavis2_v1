@@ -1,0 +1,298 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {"text":"Australian Public Universities Students", "fontSize": 24, "subtitle": "by Gender", "subtitleFontSize": 20},
+  "data": {"url": "https://raw.githubusercontent.com/jjin0021/datavis2/main/data/aus_pub_uni.csv"},
+  "transform": [
+    {"filter": "datum.Year == Year"}
+  ],
+  "spacing": 0,
+  "hconcat": [
+    {
+      "transform": [
+        {"filter": {"field": "Gender", "equal": "Female"}},
+        {"filter": {"field": "Citizenship", "equal": "Domestic"}}
+      ],
+      "layer": [
+        {
+          "title": "Female",
+          "mark": "bar",
+          "encoding": {
+            "y": {
+              "field": "State", 
+              "axis": null, 
+              "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+            },
+            "x": {
+              "aggregate": "sum", "field": "Count",
+              "title": "Total",
+              "axis": {"format": "s"},
+              "sort": "descending",
+              "scale": {
+                "domain": [0,180000]
+              }
+            },
+            "color": {
+              "field": "Gender",
+              "scale": {"range": ["#e41a1c", "#377eb8"]},
+              "legend": null
+            },
+            "tooltip": [
+              {"field": "State"},
+              {"field": "Year"},
+              {"field": "Citizenship"},
+              {"aggregate": "sum", 
+                "field": "Count", 
+                "type": "quantitative",
+                "title": "Number of Students",
+                "format": ","}
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle"
+          },
+          "encoding": {
+            "y": {
+              "field": "State", 
+              "axis": null, 
+              "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+            },
+            "text": {"aggregate": "sum", "field": "Count", "type": "quantitative", "format": ","}
+          }
+        }
+      ]
+    },
+    {
+      "width": 30,
+      "view": {"stroke": null},
+      "mark": {
+        "type": "text",
+        "align": "center"
+        },
+      "encoding": {
+        "y": {
+          "field": "State", 
+          "type": "nominal", 
+          "axis": null, 
+          "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+        },
+        "text": {"field": "State_Short", "type": "nominal"}
+      }
+    },
+    {
+      "transform": [
+        {"filter": {"field": "Gender", "equal": "Male"}},
+        {"filter": {"field": "Citizenship", "equal": "Domestic"}}
+      ],
+      "layer": [
+        {
+          "title": "Male",
+          "mark": "bar",
+          "encoding": {
+            "y": {
+              "field": "State", 
+              "axis": null, 
+              "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+            },
+            "x": {
+              "aggregate": "sum", "field": "Count",
+              "title": "Total",
+              "axis": {"format": "s"},
+              "scale": {
+                "domain": [0,180000]
+              }
+            },
+            "color": {
+              "field": "Gender",
+              "scale": {"range": ["#e41a1c", "#377eb8"]},
+              "legend": null
+            },
+            "tooltip": [
+              {"field": "State"},
+              {"field": "Year"},
+              {"field": "Citizenship"},
+              {"aggregate": "sum", 
+                "field": "Count", 
+                "type": "quantitative",
+                "title": "Number of Students",
+                "format": ","}
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle"
+          },
+          "encoding": {
+            "y": {
+              "field": "State", 
+              "axis": null, 
+              "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+            },
+            "text": {"aggregate": "sum", "field": "Count", "type": "quantitative", "format": ","}
+          }
+        }
+      ]
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center"
+      }
+    },
+    {
+      "transform": [
+        {"filter": {"field": "Gender", "equal": "Female"}},
+        {"filter": {"field": "Citizenship", "equal": "International"}}
+      ],
+      "layer": [
+        {
+          "title": "Female",
+          "mark": "bar",
+          "encoding": {
+            "y": {
+              "field": "State", 
+              "axis": null, 
+              "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+            },
+            "x": {
+              "aggregate": "sum", "field": "Count",
+              "title": "Total",
+              "axis": {"format": "s"},
+              "sort": "descending",
+              "scale": {
+                "domain": [0,90000]
+              }
+            },
+            "color": {
+              "field": "Gender",
+              "scale": {"range": ["#e41a1c", "#377eb8"]},
+              "legend": null
+            },
+            "tooltip": [
+              {"field": "State"},
+              {"field": "Year"},
+              {"field": "Citizenship"},
+              {"aggregate": "sum", 
+                "field": "Count", 
+                "type": "quantitative",
+                "title": "Number of Students",
+                "format": ","}
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle"
+          },
+          "encoding": {
+            "y": {
+              "field": "State", 
+              "axis": null, 
+              "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+            },
+            "text": {"aggregate": "sum", "field": "Count", "type": "quantitative", "format": ","}
+          }
+        }
+      ]
+    },
+    {
+      "width": 30,
+      "view": {"stroke": null},
+      "mark": {
+        "type": "text",
+        "align": "center"
+        },
+      "encoding": {
+        "y": {
+          "field": "State", 
+          "type": "nominal", 
+          "axis": null, 
+          "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+        },
+        "text": {"field": "State_Short", "type": "nominal"}
+      }
+    },
+    {
+      "transform": [
+        {"filter": {"field": "Gender", "equal": "Male"}},
+        {"filter": {"field": "Citizenship", "equal": "International"}}
+      ],
+      "layer": [
+        {
+          "title": "Male",
+          "mark": "bar",
+          "encoding": {
+            "y": {
+              "field": "State", 
+              "axis": null, 
+              "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+            },
+            "x": {
+              "aggregate": "sum", "field": "Count",
+              "title": "Total",
+              "axis": {"format": "s"},
+              "scale": {
+                "domain": [0,90000]
+              }
+            },
+            "color": {
+              "field": "Gender",
+              "scale": {"range": ["#e41a1c", "#377eb8"]},
+              "legend": null
+            },
+            "tooltip": [
+              {"field": "State"},
+              {"field": "Year"},
+              {"field": "Citizenship"},
+              {"aggregate": "sum", 
+                "field": "Count", 
+                "type": "quantitative",
+                "title": "Number of Students",
+                "format": ","}
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle"
+          },
+          "encoding": {
+            "y": {
+              "field": "State", 
+              "axis": null, 
+              "sort": ["Northern Territory", "Australian Capital Territory", "Tasmania", "South Australia", "Western Australia", "Queensland", "Victoria", "New South Wales"]
+            },
+            "text": {"aggregate": "sum", "field": "Count", "type": "quantitative", "format": ","}
+          }
+        }
+      ]
+    }
+  ],
+  "params": [
+    {
+      "name": "Year",
+      "value": 2021,
+      "bind": {
+          "input": "range",
+          "min": 2017,
+          "max": 2021,
+          "step": 1,
+          "name": "Select the year:"
+      }
+    }
+  ],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+  }
+}
