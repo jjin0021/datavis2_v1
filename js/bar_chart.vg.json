@@ -1,0 +1,40 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {"text":"Australian Public Universities Students", "fontSize": 24, "subtitle": "by Level and Citizenship", "subtitleFontSize": 20},
+  "data": {"url": "https://raw.githubusercontent.com/jjin0021/datavis2/main/data/aus_pub_uni.csv"},
+  "transform": [
+    {"filter": "datum.Year == Year"}
+  ],
+  "mark": "bar",
+  "encoding": {
+    "row": {"field": "Level", "title": "Level", "sort": "descending"},
+    "x": {"field": "State_Short", "sort": "-y"},
+    "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"},
+    "xOffset": {"field": "Citizenship", "sort": "-y"},
+    "color": {"field": "Citizenship", "legend": null},
+    "tooltip": [
+      {"field": "State"},
+      {"field": "Year"},
+      {"field": "Citizenship"},
+      {"field": "Level"},
+      {"aggregate": "sum", 
+        "field": "Count", 
+        "type": "quantitative",
+        "title": "Number of Students",
+        "format": ","}
+    ]
+  },
+  "params": [
+    {
+      "name": "Year",
+      "value": 2021,
+      "bind": {
+          "input": "range",
+          "min": 2017,
+          "max": 2021,
+          "step": 1,
+          "name": "Select the year:"
+      }
+    }
+  ]
+}
