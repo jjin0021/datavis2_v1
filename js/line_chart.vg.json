@@ -1,0 +1,79 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 250,
+  "title": {"text":"Australian Public Universities Students over Time", "fontSize": 24, "subtitle": "by Citizenship and Level", "subtitleFontSize": 20},
+  "data": {"url": "https://raw.githubusercontent.com/jjin0021/datavis2/main/data/aus_pub_uni.csv"},
+  "transform": [
+    {
+      "calculate": "datum.Citizenship + '_' + datum.Level", 
+      "as": "Citizenship_Level"
+    },
+    {
+      "aggregate": [{
+        "op": "sum",
+        "field": "Count",
+        "as": "Total"
+      }],
+      "groupby": ["Citizenship", "Level", "Year", "Citizenship_Level"]
+    }
+  ],
+  "encoding": {"x": {"field": "Year", "type": "ordinal"}},
+  "layer": [
+    {
+      "encoding": {
+        "y": {"field": "Total", "type": "quantitative"},
+        "color": {
+          "field": "Citizenship",
+          "type": "nominal"
+        },
+        "strokeDash": {
+          "field": "Level", 
+          "type": "nominal",
+          "scale": {
+            "domain": ["Undergraduate", "Postgraduate"],
+            "range": [[1,0],[3,3]]
+          }
+        }
+      },
+      "layer": [
+        {"mark": "line"},
+        {"transform": [{"filter": {"param": "hover", "empty": false}}], "mark": "point"}
+      ]
+    },
+    {
+      "transform": [
+        {
+          "pivot": "Citizenship_Level",
+          "value": "Total",
+          "groupby": ["Year"]
+        }
+      ],
+      "mark": "rule",
+      "encoding": {
+        "opacity": {
+          "condition": {"value": 0.3, "param": "hover", "empty": false},
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Domestic_Undergraduate", "type": "quantitative", "format": ","},
+          {"field": "Domestic_Postgraduate", "type": "quantitative", "format": ","},
+          {"field": "International_Undergraduate", "type": "quantitative", "format": ","},
+          {"field": "International_Postgraduate", "type": "quantitative", "format": ","}
+        ]
+      },
+      "params": [
+        {
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "fields": ["Year"] ,
+            "nearest": true,
+            "on": "mouseover",
+            "clear": "mouseout"
+          }
+        }
+      ]
+    }
+  ]
+}
