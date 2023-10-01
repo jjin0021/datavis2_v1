@@ -1,0 +1,95 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 600, 
+    "height": 400,
+    "title": {"text":"Australian Public Universities Students over Time", "fontSize": 24, "subtitle": "by Citizenship and Status", "subtitleFontSize": 20},
+    "data": {"url": "https://raw.githubusercontent.com/jjin0021/datavis2/main/data/aus_pub_uni.csv"},
+    "transform": [
+      {
+        "calculate": "datum.Citizenship + '_' + datum.Status", 
+        "as": "Citizenship_Status"
+      },
+      {"filter": "Citizenship_selection == null || datum.Citizenship == Citizenship_selection"},
+      {"filter": "Status_selection == null || datum.Status == Status_selection"}
+    ],
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "field": "Year"
+      },
+      "y": {
+        "aggregate": "sum", 
+        "field": "Count",
+        "axis": null,
+        "stack": "center"
+      },
+      "color": {
+        "field":"Citizenship",
+        "scale": {
+            "domain": [
+                "Domestic",
+                "International"
+              ],
+              "range": [
+                "#4138af",
+                "#ffe330"
+              ]
+        }
+      },
+      "opacity": {
+        "field": "Status",
+        "scale": {
+          "domain": ["Beginning", "Continuing", "Finishing"],
+          "range": [0.4, 0.9, 1]
+        }
+      },
+      "tooltip": [
+        {"field": "Year"},
+        {"field": "Citizenship"},
+        {"field": "Status"},
+        {"aggregate": "sum", 
+          "field": "Count",
+          "type": "quantitative",
+          "title": "Number of Students",
+          "format": ","}
+      ]
+    },
+    "params": [
+      {
+        "name": "Citizenship_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Domestic",
+            "International"
+          ],
+          "labels": [
+            "Show All",
+            "Domestic",
+            "International"
+          ],
+          "name": "Select Citizenship: "
+        }
+      },
+      {
+        "name": "Status_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Beginning",
+            "Continuing",
+            "Finishing"
+          ],
+          "labels": [
+            "Show All",
+            "Beginning",
+            "Continuing",
+            "Finishing"
+          ],
+          "name": "Select Status: "
+        }
+      }
+    ]
+  }
