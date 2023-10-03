@@ -1,0 +1,24 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {"text":"Australian Public Universities Students Over Time", "fontSize": 24, "subtitle": "by Citizenship and Level", "subtitleFontSize": 20},
+    "data": {"url": "https://raw.githubusercontent.com/jjin0021/datavis2/main/data/aus_pub_uni.csv"},
+    "width": 50,
+    "height": 50,
+    "mark": {"type": "arc", "innerRadius": 20, "radius": 40},
+    "encoding": {
+      "theta": {"aggregate": "sum", "field": "Count", "type": "quantitative"},
+      "color": {
+        "field": "Status", 
+        "type": "nominal",
+        "legend": {"orient": "bottom"}
+      },
+      "tooltip": [
+        {"field": "Status"},
+        {"aggregate": "sum", 
+          "field": "Count", 
+          "type": "quantitative",
+          "title": "Number of Students",
+          "format": ","}
+      ]
+    }
+}
