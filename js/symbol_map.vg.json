@@ -4,9 +4,7 @@
   "height": 450,
   "title": {"text":"Australian Public Universities Students in 2021", "fontSize": 24, "subtitle": "by Citizenship", "subtitleFontSize": 20},
   "projection": {
-    "parallels": [-16, -37],
-    "rotate": [-134, 0, 0],
-    "type": "conicEqualArea"
+    "type": "mercator"
   },
   "view": {"stroke": "transparent"},
   "layer": [
@@ -61,7 +59,7 @@
           },
           "legend": {"orient": "none", "legendX": 700, "legendY": 15, "symbolSize": 500, "labelFontSize": 11, "titleFontSize": 16}
         },
-        "opacity": {"value": 0.8},
+        "opacity": {"value": 0.9},
         "tooltip": [
           {"field": "State"},
           {"field": "Year"},
@@ -72,6 +70,27 @@
             "title": "Number of Students",
             "format": ","}
         ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/jjin0021/datavis2/main/data/aus_pub_uni.csv"
+      },
+      "transform": [
+        {"filter": "datum.Year == 2021"},
+        {"filter": {"field": "Citizenship", "equal": "International"}}
+      ],
+      "mark": {
+        "type": "text", 
+        "align": "center",
+        "baseline": "middle",
+        "dy": 12,
+        "fontSize": 12
+        },
+      "encoding": {
+        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "latitude": {"field": "Latitude", "type": "quantitative"},
+        "text": {"field": "State_Short"}
       }
     }
   ]
