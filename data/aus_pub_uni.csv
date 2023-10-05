@@ -39,26 +39,26 @@ Australian Capital Territory,ACT,2018,Domestic,Continuing,Male,Undergraduate,467
 Australian Capital Territory,ACT,2019,Domestic,Continuing,Male,Undergraduate,4326,-35.4618,148.983
 Australian Capital Territory,ACT,2020,Domestic,Continuing,Male,Undergraduate,4464,-35.4618,148.983
 Australian Capital Territory,ACT,2021,Domestic,Continuing,Male,Undergraduate,4312,-35.4618,148.983
-Australian Capital Territory,ACT,2017,Domestic,Finishing,Female,Postgraduate,1802,-35.4618,148.983
-Australian Capital Territory,ACT,2018,Domestic,Finishing,Female,Postgraduate,1527,-35.4618,148.983
-Australian Capital Territory,ACT,2019,Domestic,Finishing,Female,Postgraduate,1343,-35.4618,148.983
-Australian Capital Territory,ACT,2020,Domestic,Finishing,Female,Postgraduate,1471,-35.4618,148.983
-Australian Capital Territory,ACT,2021,Domestic,Finishing,Female,Postgraduate,1194,-35.4618,148.983
-Australian Capital Territory,ACT,2017,Domestic,Finishing,Female,Undergraduate,2084,-35.4618,148.983
-Australian Capital Territory,ACT,2018,Domestic,Finishing,Female,Undergraduate,2199,-35.4618,148.983
-Australian Capital Territory,ACT,2019,Domestic,Finishing,Female,Undergraduate,2360,-35.4618,148.983
-Australian Capital Territory,ACT,2020,Domestic,Finishing,Female,Undergraduate,2325,-35.4618,148.983
-Australian Capital Territory,ACT,2021,Domestic,Finishing,Female,Undergraduate,2348,-35.4618,148.983
-Australian Capital Territory,ACT,2017,Domestic,Finishing,Male,Postgraduate,1419,-35.4618,148.983
-Australian Capital Territory,ACT,2018,Domestic,Finishing,Male,Postgraduate,1269,-35.4618,148.983
-Australian Capital Territory,ACT,2019,Domestic,Finishing,Male,Postgraduate,1083,-35.4618,148.983
-Australian Capital Territory,ACT,2020,Domestic,Finishing,Male,Postgraduate,1068,-35.4618,148.983
-Australian Capital Territory,ACT,2021,Domestic,Finishing,Male,Postgraduate,1032,-35.4618,148.983
-Australian Capital Territory,ACT,2017,Domestic,Finishing,Male,Undergraduate,1641,-35.4618,148.983
-Australian Capital Territory,ACT,2018,Domestic,Finishing,Male,Undergraduate,1672,-35.4618,148.983
-Australian Capital Territory,ACT,2019,Domestic,Finishing,Male,Undergraduate,1803,-35.4618,148.983
-Australian Capital Territory,ACT,2020,Domestic,Finishing,Male,Undergraduate,1857,-35.4618,148.983
-Australian Capital Territory,ACT,2021,Domestic,Finishing,Male,Undergraduate,1809,-35.4618,148.983
+Australian Capital Territory,ACT,2017,Domestic,Graduating,Female,Postgraduate,1802,-35.4618,148.983
+Australian Capital Territory,ACT,2018,Domestic,Graduating,Female,Postgraduate,1527,-35.4618,148.983
+Australian Capital Territory,ACT,2019,Domestic,Graduating,Female,Postgraduate,1343,-35.4618,148.983
+Australian Capital Territory,ACT,2020,Domestic,Graduating,Female,Postgraduate,1471,-35.4618,148.983
+Australian Capital Territory,ACT,2021,Domestic,Graduating,Female,Postgraduate,1194,-35.4618,148.983
+Australian Capital Territory,ACT,2017,Domestic,Graduating,Female,Undergraduate,2084,-35.4618,148.983
+Australian Capital Territory,ACT,2018,Domestic,Graduating,Female,Undergraduate,2199,-35.4618,148.983
+Australian Capital Territory,ACT,2019,Domestic,Graduating,Female,Undergraduate,2360,-35.4618,148.983
+Australian Capital Territory,ACT,2020,Domestic,Graduating,Female,Undergraduate,2325,-35.4618,148.983
+Australian Capital Territory,ACT,2021,Domestic,Graduating,Female,Undergraduate,2348,-35.4618,148.983
+Australian Capital Territory,ACT,2017,Domestic,Graduating,Male,Postgraduate,1419,-35.4618,148.983
+Australian Capital Territory,ACT,2018,Domestic,Graduating,Male,Postgraduate,1269,-35.4618,148.983
+Australian Capital Territory,ACT,2019,Domestic,Graduating,Male,Postgraduate,1083,-35.4618,148.983
+Australian Capital Territory,ACT,2020,Domestic,Graduating,Male,Postgraduate,1068,-35.4618,148.983
+Australian Capital Territory,ACT,2021,Domestic,Graduating,Male,Postgraduate,1032,-35.4618,148.983
+Australian Capital Territory,ACT,2017,Domestic,Graduating,Male,Undergraduate,1641,-35.4618,148.983
+Australian Capital Territory,ACT,2018,Domestic,Graduating,Male,Undergraduate,1672,-35.4618,148.983
+Australian Capital Territory,ACT,2019,Domestic,Graduating,Male,Undergraduate,1803,-35.4618,148.983
+Australian Capital Territory,ACT,2020,Domestic,Graduating,Male,Undergraduate,1857,-35.4618,148.983
+Australian Capital Territory,ACT,2021,Domestic,Graduating,Male,Undergraduate,1809,-35.4618,148.983
 Australian Capital Territory,ACT,2017,International,Beginning,Female,Postgraduate,1916,-35.4618,148.983
 Australian Capital Territory,ACT,2018,International,Beginning,Female,Postgraduate,2403,-35.4618,148.983
 Australian Capital Territory,ACT,2019,International,Beginning,Female,Postgraduate,1997,-35.4618,148.983
@@ -99,26 +99,26 @@ Australian Capital Territory,ACT,2018,International,Continuing,Male,Undergraduat
 Australian Capital Territory,ACT,2019,International,Continuing,Male,Undergraduate,1030,-35.4618,148.983
 Australian Capital Territory,ACT,2020,International,Continuing,Male,Undergraduate,1040,-35.4618,148.983
 Australian Capital Territory,ACT,2021,International,Continuing,Male,Undergraduate,794,-35.4618,148.983
-Australian Capital Territory,ACT,2017,International,Finishing,Female,Postgraduate,1292,-35.4618,148.983
-Australian Capital Territory,ACT,2018,International,Finishing,Female,Postgraduate,1645,-35.4618,148.983
-Australian Capital Territory,ACT,2019,International,Finishing,Female,Postgraduate,1816,-35.4618,148.983
-Australian Capital Territory,ACT,2020,International,Finishing,Female,Postgraduate,1682,-35.4618,148.983
-Australian Capital Territory,ACT,2021,International,Finishing,Female,Postgraduate,1485,-35.4618,148.983
-Australian Capital Territory,ACT,2017,International,Finishing,Female,Undergraduate,644,-35.4618,148.983
-Australian Capital Territory,ACT,2018,International,Finishing,Female,Undergraduate,745,-35.4618,148.983
-Australian Capital Territory,ACT,2019,International,Finishing,Female,Undergraduate,792,-35.4618,148.983
-Australian Capital Territory,ACT,2020,International,Finishing,Female,Undergraduate,647,-35.4618,148.983
-Australian Capital Territory,ACT,2021,International,Finishing,Female,Undergraduate,653,-35.4618,148.983
-Australian Capital Territory,ACT,2017,International,Finishing,Male,Postgraduate,1291,-35.4618,148.983
-Australian Capital Territory,ACT,2018,International,Finishing,Male,Postgraduate,1385,-35.4618,148.983
-Australian Capital Territory,ACT,2019,International,Finishing,Male,Postgraduate,1473,-35.4618,148.983
-Australian Capital Territory,ACT,2020,International,Finishing,Male,Postgraduate,1457,-35.4618,148.983
-Australian Capital Territory,ACT,2021,International,Finishing,Male,Postgraduate,1376,-35.4618,148.983
-Australian Capital Territory,ACT,2017,International,Finishing,Male,Undergraduate,679,-35.4618,148.983
-Australian Capital Territory,ACT,2018,International,Finishing,Male,Undergraduate,726,-35.4618,148.983
-Australian Capital Territory,ACT,2019,International,Finishing,Male,Undergraduate,700,-35.4618,148.983
-Australian Capital Territory,ACT,2020,International,Finishing,Male,Undergraduate,676,-35.4618,148.983
-Australian Capital Territory,ACT,2021,International,Finishing,Male,Undergraduate,703,-35.4618,148.983
+Australian Capital Territory,ACT,2017,International,Graduating,Female,Postgraduate,1292,-35.4618,148.983
+Australian Capital Territory,ACT,2018,International,Graduating,Female,Postgraduate,1645,-35.4618,148.983
+Australian Capital Territory,ACT,2019,International,Graduating,Female,Postgraduate,1816,-35.4618,148.983
+Australian Capital Territory,ACT,2020,International,Graduating,Female,Postgraduate,1682,-35.4618,148.983
+Australian Capital Territory,ACT,2021,International,Graduating,Female,Postgraduate,1485,-35.4618,148.983
+Australian Capital Territory,ACT,2017,International,Graduating,Female,Undergraduate,644,-35.4618,148.983
+Australian Capital Territory,ACT,2018,International,Graduating,Female,Undergraduate,745,-35.4618,148.983
+Australian Capital Territory,ACT,2019,International,Graduating,Female,Undergraduate,792,-35.4618,148.983
+Australian Capital Territory,ACT,2020,International,Graduating,Female,Undergraduate,647,-35.4618,148.983
+Australian Capital Territory,ACT,2021,International,Graduating,Female,Undergraduate,653,-35.4618,148.983
+Australian Capital Territory,ACT,2017,International,Graduating,Male,Postgraduate,1291,-35.4618,148.983
+Australian Capital Territory,ACT,2018,International,Graduating,Male,Postgraduate,1385,-35.4618,148.983
+Australian Capital Territory,ACT,2019,International,Graduating,Male,Postgraduate,1473,-35.4618,148.983
+Australian Capital Territory,ACT,2020,International,Graduating,Male,Postgraduate,1457,-35.4618,148.983
+Australian Capital Territory,ACT,2021,International,Graduating,Male,Postgraduate,1376,-35.4618,148.983
+Australian Capital Territory,ACT,2017,International,Graduating,Male,Undergraduate,679,-35.4618,148.983
+Australian Capital Territory,ACT,2018,International,Graduating,Male,Undergraduate,726,-35.4618,148.983
+Australian Capital Territory,ACT,2019,International,Graduating,Male,Undergraduate,700,-35.4618,148.983
+Australian Capital Territory,ACT,2020,International,Graduating,Male,Undergraduate,676,-35.4618,148.983
+Australian Capital Territory,ACT,2021,International,Graduating,Male,Undergraduate,703,-35.4618,148.983
 New South Wales,NSW,2017,Domestic,Beginning,Female,Postgraduate,15656,-32.4751,146.781
 New South Wales,NSW,2018,Domestic,Beginning,Female,Postgraduate,15634,-32.4751,146.781
 New South Wales,NSW,2019,Domestic,Beginning,Female,Postgraduate,15802,-32.4751,146.781
@@ -159,26 +159,26 @@ New South Wales,NSW,2018,Domestic,Continuing,Male,Undergraduate,49398,-32.4751,1
 New South Wales,NSW,2019,Domestic,Continuing,Male,Undergraduate,49739,-32.4751,146.781
 New South Wales,NSW,2020,Domestic,Continuing,Male,Undergraduate,49625,-32.4751,146.781
 New South Wales,NSW,2021,Domestic,Continuing,Male,Undergraduate,51009,-32.4751,146.781
-New South Wales,NSW,2017,Domestic,Finishing,Female,Postgraduate,11304,-32.4751,146.781
-New South Wales,NSW,2018,Domestic,Finishing,Female,Postgraduate,10945,-32.4751,146.781
-New South Wales,NSW,2019,Domestic,Finishing,Female,Postgraduate,11444,-32.4751,146.781
-New South Wales,NSW,2020,Domestic,Finishing,Female,Postgraduate,11267,-32.4751,146.781
-New South Wales,NSW,2021,Domestic,Finishing,Female,Postgraduate,12102,-32.4751,146.781
-New South Wales,NSW,2017,Domestic,Finishing,Female,Undergraduate,23248,-32.4751,146.781
-New South Wales,NSW,2018,Domestic,Finishing,Female,Undergraduate,23287,-32.4751,146.781
-New South Wales,NSW,2019,Domestic,Finishing,Female,Undergraduate,23474,-32.4751,146.781
-New South Wales,NSW,2020,Domestic,Finishing,Female,Undergraduate,22799,-32.4751,146.781
-New South Wales,NSW,2021,Domestic,Finishing,Female,Undergraduate,22451,-32.4751,146.781
-New South Wales,NSW,2017,Domestic,Finishing,Male,Postgraduate,8229,-32.4751,146.781
-New South Wales,NSW,2018,Domestic,Finishing,Male,Postgraduate,7888,-32.4751,146.781
-New South Wales,NSW,2019,Domestic,Finishing,Male,Postgraduate,8014,-32.4751,146.781
-New South Wales,NSW,2020,Domestic,Finishing,Male,Postgraduate,8131,-32.4751,146.781
-New South Wales,NSW,2021,Domestic,Finishing,Male,Postgraduate,8437,-32.4751,146.781
-New South Wales,NSW,2017,Domestic,Finishing,Male,Undergraduate,16679,-32.4751,146.781
-New South Wales,NSW,2018,Domestic,Finishing,Male,Undergraduate,17149,-32.4751,146.781
-New South Wales,NSW,2019,Domestic,Finishing,Male,Undergraduate,17136,-32.4751,146.781
-New South Wales,NSW,2020,Domestic,Finishing,Male,Undergraduate,17069,-32.4751,146.781
-New South Wales,NSW,2021,Domestic,Finishing,Male,Undergraduate,16268,-32.4751,146.781
+New South Wales,NSW,2017,Domestic,Graduating,Female,Postgraduate,11304,-32.4751,146.781
+New South Wales,NSW,2018,Domestic,Graduating,Female,Postgraduate,10945,-32.4751,146.781
+New South Wales,NSW,2019,Domestic,Graduating,Female,Postgraduate,11444,-32.4751,146.781
+New South Wales,NSW,2020,Domestic,Graduating,Female,Postgraduate,11267,-32.4751,146.781
+New South Wales,NSW,2021,Domestic,Graduating,Female,Postgraduate,12102,-32.4751,146.781
+New South Wales,NSW,2017,Domestic,Graduating,Female,Undergraduate,23248,-32.4751,146.781
+New South Wales,NSW,2018,Domestic,Graduating,Female,Undergraduate,23287,-32.4751,146.781
+New South Wales,NSW,2019,Domestic,Graduating,Female,Undergraduate,23474,-32.4751,146.781
+New South Wales,NSW,2020,Domestic,Graduating,Female,Undergraduate,22799,-32.4751,146.781
+New South Wales,NSW,2021,Domestic,Graduating,Female,Undergraduate,22451,-32.4751,146.781
+New South Wales,NSW,2017,Domestic,Graduating,Male,Postgraduate,8229,-32.4751,146.781
+New South Wales,NSW,2018,Domestic,Graduating,Male,Postgraduate,7888,-32.4751,146.781
+New South Wales,NSW,2019,Domestic,Graduating,Male,Postgraduate,8014,-32.4751,146.781
+New South Wales,NSW,2020,Domestic,Graduating,Male,Postgraduate,8131,-32.4751,146.781
+New South Wales,NSW,2021,Domestic,Graduating,Male,Postgraduate,8437,-32.4751,146.781
+New South Wales,NSW,2017,Domestic,Graduating,Male,Undergraduate,16679,-32.4751,146.781
+New South Wales,NSW,2018,Domestic,Graduating,Male,Undergraduate,17149,-32.4751,146.781
+New South Wales,NSW,2019,Domestic,Graduating,Male,Undergraduate,17136,-32.4751,146.781
+New South Wales,NSW,2020,Domestic,Graduating,Male,Undergraduate,17069,-32.4751,146.781
+New South Wales,NSW,2021,Domestic,Graduating,Male,Undergraduate,16268,-32.4751,146.781
 New South Wales,NSW,2017,International,Beginning,Female,Postgraduate,13613,-32.4751,146.781
 New South Wales,NSW,2018,International,Beginning,Female,Postgraduate,14656,-32.4751,146.781
 New South Wales,NSW,2019,International,Beginning,Female,Postgraduate,16243,-32.4751,146.781
@@ -219,26 +219,26 @@ New South Wales,NSW,2018,International,Continuing,Male,Undergraduate,10809,-32.4
 New South Wales,NSW,2019,International,Continuing,Male,Undergraduate,11714,-32.4751,146.781
 New South Wales,NSW,2020,International,Continuing,Male,Undergraduate,11818,-32.4751,146.781
 New South Wales,NSW,2021,International,Continuing,Male,Undergraduate,12208,-32.4751,146.781
-New South Wales,NSW,2017,International,Finishing,Female,Postgraduate,9040,-32.4751,146.781
-New South Wales,NSW,2018,International,Finishing,Female,Postgraduate,10859,-32.4751,146.781
-New South Wales,NSW,2019,International,Finishing,Female,Postgraduate,11740,-32.4751,146.781
-New South Wales,NSW,2020,International,Finishing,Female,Postgraduate,11112,-32.4751,146.781
-New South Wales,NSW,2021,International,Finishing,Female,Postgraduate,13942,-32.4751,146.781
-New South Wales,NSW,2017,International,Finishing,Female,Undergraduate,5576,-32.4751,146.781
-New South Wales,NSW,2018,International,Finishing,Female,Undergraduate,6476,-32.4751,146.781
-New South Wales,NSW,2019,International,Finishing,Female,Undergraduate,7261,-32.4751,146.781
-New South Wales,NSW,2020,International,Finishing,Female,Undergraduate,6923,-32.4751,146.781
-New South Wales,NSW,2021,International,Finishing,Female,Undergraduate,7691,-32.4751,146.781
-New South Wales,NSW,2017,International,Finishing,Male,Postgraduate,8609,-32.4751,146.781
-New South Wales,NSW,2018,International,Finishing,Male,Postgraduate,10893,-32.4751,146.781
-New South Wales,NSW,2019,International,Finishing,Male,Postgraduate,11743,-32.4751,146.781
-New South Wales,NSW,2020,International,Finishing,Male,Postgraduate,11296,-32.4751,146.781
-New South Wales,NSW,2021,International,Finishing,Male,Postgraduate,12376,-32.4751,146.781
-New South Wales,NSW,2017,International,Finishing,Male,Undergraduate,4814,-32.4751,146.781
-New South Wales,NSW,2018,International,Finishing,Male,Undergraduate,5366,-32.4751,146.781
-New South Wales,NSW,2019,International,Finishing,Male,Undergraduate,6098,-32.4751,146.781
-New South Wales,NSW,2020,International,Finishing,Male,Undergraduate,6365,-32.4751,146.781
-New South Wales,NSW,2021,International,Finishing,Male,Undergraduate,6768,-32.4751,146.781
+New South Wales,NSW,2017,International,Graduating,Female,Postgraduate,9040,-32.4751,146.781
+New South Wales,NSW,2018,International,Graduating,Female,Postgraduate,10859,-32.4751,146.781
+New South Wales,NSW,2019,International,Graduating,Female,Postgraduate,11740,-32.4751,146.781
+New South Wales,NSW,2020,International,Graduating,Female,Postgraduate,11112,-32.4751,146.781
+New South Wales,NSW,2021,International,Graduating,Female,Postgraduate,13942,-32.4751,146.781
+New South Wales,NSW,2017,International,Graduating,Female,Undergraduate,5576,-32.4751,146.781
+New South Wales,NSW,2018,International,Graduating,Female,Undergraduate,6476,-32.4751,146.781
+New South Wales,NSW,2019,International,Graduating,Female,Undergraduate,7261,-32.4751,146.781
+New South Wales,NSW,2020,International,Graduating,Female,Undergraduate,6923,-32.4751,146.781
+New South Wales,NSW,2021,International,Graduating,Female,Undergraduate,7691,-32.4751,146.781
+New South Wales,NSW,2017,International,Graduating,Male,Postgraduate,8609,-32.4751,146.781
+New South Wales,NSW,2018,International,Graduating,Male,Postgraduate,10893,-32.4751,146.781
+New South Wales,NSW,2019,International,Graduating,Male,Postgraduate,11743,-32.4751,146.781
+New South Wales,NSW,2020,International,Graduating,Male,Postgraduate,11296,-32.4751,146.781
+New South Wales,NSW,2021,International,Graduating,Male,Postgraduate,12376,-32.4751,146.781
+New South Wales,NSW,2017,International,Graduating,Male,Undergraduate,4814,-32.4751,146.781
+New South Wales,NSW,2018,International,Graduating,Male,Undergraduate,5366,-32.4751,146.781
+New South Wales,NSW,2019,International,Graduating,Male,Undergraduate,6098,-32.4751,146.781
+New South Wales,NSW,2020,International,Graduating,Male,Undergraduate,6365,-32.4751,146.781
+New South Wales,NSW,2021,International,Graduating,Male,Undergraduate,6768,-32.4751,146.781
 Northern Territory,NT,2017,Domestic,Beginning,Female,Postgraduate,333,-20.1026,133.78
 Northern Territory,NT,2018,Domestic,Beginning,Female,Postgraduate,398,-20.1026,133.78
 Northern Territory,NT,2019,Domestic,Beginning,Female,Postgraduate,420,-20.1026,133.78
@@ -279,26 +279,26 @@ Northern Territory,NT,2018,Domestic,Continuing,Male,Undergraduate,941,-20.1026,1
 Northern Territory,NT,2019,Domestic,Continuing,Male,Undergraduate,1039,-20.1026,133.78
 Northern Territory,NT,2020,Domestic,Continuing,Male,Undergraduate,1038,-20.1026,133.78
 Northern Territory,NT,2021,Domestic,Continuing,Male,Undergraduate,1192,-20.1026,133.78
-Northern Territory,NT,2017,Domestic,Finishing,Female,Postgraduate,197,-20.1026,133.78
-Northern Territory,NT,2018,Domestic,Finishing,Female,Postgraduate,215,-20.1026,133.78
-Northern Territory,NT,2019,Domestic,Finishing,Female,Postgraduate,229,-20.1026,133.78
-Northern Territory,NT,2020,Domestic,Finishing,Female,Postgraduate,451,-20.1026,133.78
-Northern Territory,NT,2021,Domestic,Finishing,Female,Postgraduate,324,-20.1026,133.78
-Northern Territory,NT,2017,Domestic,Finishing,Female,Undergraduate,684,-20.1026,133.78
-Northern Territory,NT,2018,Domestic,Finishing,Female,Undergraduate,676,-20.1026,133.78
-Northern Territory,NT,2019,Domestic,Finishing,Female,Undergraduate,806,-20.1026,133.78
-Northern Territory,NT,2020,Domestic,Finishing,Female,Undergraduate,785,-20.1026,133.78
-Northern Territory,NT,2021,Domestic,Finishing,Female,Undergraduate,965,-20.1026,133.78
-Northern Territory,NT,2017,Domestic,Finishing,Male,Postgraduate,85,-20.1026,133.78
-Northern Territory,NT,2018,Domestic,Finishing,Male,Postgraduate,62,-20.1026,133.78
-Northern Territory,NT,2019,Domestic,Finishing,Male,Postgraduate,58,-20.1026,133.78
-Northern Territory,NT,2020,Domestic,Finishing,Male,Postgraduate,128,-20.1026,133.78
-Northern Territory,NT,2021,Domestic,Finishing,Male,Postgraduate,94,-20.1026,133.78
-Northern Territory,NT,2017,Domestic,Finishing,Male,Undergraduate,225,-20.1026,133.78
-Northern Territory,NT,2018,Domestic,Finishing,Male,Undergraduate,235,-20.1026,133.78
-Northern Territory,NT,2019,Domestic,Finishing,Male,Undergraduate,227,-20.1026,133.78
-Northern Territory,NT,2020,Domestic,Finishing,Male,Undergraduate,282,-20.1026,133.78
-Northern Territory,NT,2021,Domestic,Finishing,Male,Undergraduate,283,-20.1026,133.78
+Northern Territory,NT,2017,Domestic,Graduating,Female,Postgraduate,197,-20.1026,133.78
+Northern Territory,NT,2018,Domestic,Graduating,Female,Postgraduate,215,-20.1026,133.78
+Northern Territory,NT,2019,Domestic,Graduating,Female,Postgraduate,229,-20.1026,133.78
+Northern Territory,NT,2020,Domestic,Graduating,Female,Postgraduate,451,-20.1026,133.78
+Northern Territory,NT,2021,Domestic,Graduating,Female,Postgraduate,324,-20.1026,133.78
+Northern Territory,NT,2017,Domestic,Graduating,Female,Undergraduate,684,-20.1026,133.78
+Northern Territory,NT,2018,Domestic,Graduating,Female,Undergraduate,676,-20.1026,133.78
+Northern Territory,NT,2019,Domestic,Graduating,Female,Undergraduate,806,-20.1026,133.78
+Northern Territory,NT,2020,Domestic,Graduating,Female,Undergraduate,785,-20.1026,133.78
+Northern Territory,NT,2021,Domestic,Graduating,Female,Undergraduate,965,-20.1026,133.78
+Northern Territory,NT,2017,Domestic,Graduating,Male,Postgraduate,85,-20.1026,133.78
+Northern Territory,NT,2018,Domestic,Graduating,Male,Postgraduate,62,-20.1026,133.78
+Northern Territory,NT,2019,Domestic,Graduating,Male,Postgraduate,58,-20.1026,133.78
+Northern Territory,NT,2020,Domestic,Graduating,Male,Postgraduate,128,-20.1026,133.78
+Northern Territory,NT,2021,Domestic,Graduating,Male,Postgraduate,94,-20.1026,133.78
+Northern Territory,NT,2017,Domestic,Graduating,Male,Undergraduate,225,-20.1026,133.78
+Northern Territory,NT,2018,Domestic,Graduating,Male,Undergraduate,235,-20.1026,133.78
+Northern Territory,NT,2019,Domestic,Graduating,Male,Undergraduate,227,-20.1026,133.78
+Northern Territory,NT,2020,Domestic,Graduating,Male,Undergraduate,282,-20.1026,133.78
+Northern Territory,NT,2021,Domestic,Graduating,Male,Undergraduate,283,-20.1026,133.78
 Northern Territory,NT,2017,International,Beginning,Female,Postgraduate,214,-20.1026,133.78
 Northern Territory,NT,2018,International,Beginning,Female,Postgraduate,159,-20.1026,133.78
 Northern Territory,NT,2019,International,Beginning,Female,Postgraduate,240,-20.1026,133.78
@@ -339,26 +339,26 @@ Northern Territory,NT,2018,International,Continuing,Male,Undergraduate,257,-20.1
 Northern Territory,NT,2019,International,Continuing,Male,Undergraduate,242,-20.1026,133.78
 Northern Territory,NT,2020,International,Continuing,Male,Undergraduate,188,-20.1026,133.78
 Northern Territory,NT,2021,International,Continuing,Male,Undergraduate,171,-20.1026,133.78
-Northern Territory,NT,2017,International,Finishing,Female,Postgraduate,110,-20.1026,133.78
-Northern Territory,NT,2018,International,Finishing,Female,Postgraduate,163,-20.1026,133.78
-Northern Territory,NT,2019,International,Finishing,Female,Postgraduate,112,-20.1026,133.78
-Northern Territory,NT,2020,International,Finishing,Female,Postgraduate,132,-20.1026,133.78
-Northern Territory,NT,2021,International,Finishing,Female,Postgraduate,210,-20.1026,133.78
-Northern Territory,NT,2017,International,Finishing,Female,Undergraduate,108,-20.1026,133.78
-Northern Territory,NT,2018,International,Finishing,Female,Undergraduate,96,-20.1026,133.78
-Northern Territory,NT,2019,International,Finishing,Female,Undergraduate,136,-20.1026,133.78
-Northern Territory,NT,2020,International,Finishing,Female,Undergraduate,118,-20.1026,133.78
-Northern Territory,NT,2021,International,Finishing,Female,Undergraduate,108,-20.1026,133.78
-Northern Territory,NT,2017,International,Finishing,Male,Postgraduate,186,-20.1026,133.78
-Northern Territory,NT,2018,International,Finishing,Male,Postgraduate,187,-20.1026,133.78
-Northern Territory,NT,2019,International,Finishing,Male,Postgraduate,148,-20.1026,133.78
-Northern Territory,NT,2020,International,Finishing,Male,Postgraduate,179,-20.1026,133.78
-Northern Territory,NT,2021,International,Finishing,Male,Postgraduate,230,-20.1026,133.78
-Northern Territory,NT,2017,International,Finishing,Male,Undergraduate,96,-20.1026,133.78
-Northern Territory,NT,2018,International,Finishing,Male,Undergraduate,94,-20.1026,133.78
-Northern Territory,NT,2019,International,Finishing,Male,Undergraduate,121,-20.1026,133.78
-Northern Territory,NT,2020,International,Finishing,Male,Undergraduate,125,-20.1026,133.78
-Northern Territory,NT,2021,International,Finishing,Male,Undergraduate,136,-20.1026,133.78
+Northern Territory,NT,2017,International,Graduating,Female,Postgraduate,110,-20.1026,133.78
+Northern Territory,NT,2018,International,Graduating,Female,Postgraduate,163,-20.1026,133.78
+Northern Territory,NT,2019,International,Graduating,Female,Postgraduate,112,-20.1026,133.78
+Northern Territory,NT,2020,International,Graduating,Female,Postgraduate,132,-20.1026,133.78
+Northern Territory,NT,2021,International,Graduating,Female,Postgraduate,210,-20.1026,133.78
+Northern Territory,NT,2017,International,Graduating,Female,Undergraduate,108,-20.1026,133.78
+Northern Territory,NT,2018,International,Graduating,Female,Undergraduate,96,-20.1026,133.78
+Northern Territory,NT,2019,International,Graduating,Female,Undergraduate,136,-20.1026,133.78
+Northern Territory,NT,2020,International,Graduating,Female,Undergraduate,118,-20.1026,133.78
+Northern Territory,NT,2021,International,Graduating,Female,Undergraduate,108,-20.1026,133.78
+Northern Territory,NT,2017,International,Graduating,Male,Postgraduate,186,-20.1026,133.78
+Northern Territory,NT,2018,International,Graduating,Male,Postgraduate,187,-20.1026,133.78
+Northern Territory,NT,2019,International,Graduating,Male,Postgraduate,148,-20.1026,133.78
+Northern Territory,NT,2020,International,Graduating,Male,Postgraduate,179,-20.1026,133.78
+Northern Territory,NT,2021,International,Graduating,Male,Postgraduate,230,-20.1026,133.78
+Northern Territory,NT,2017,International,Graduating,Male,Undergraduate,96,-20.1026,133.78
+Northern Territory,NT,2018,International,Graduating,Male,Undergraduate,94,-20.1026,133.78
+Northern Territory,NT,2019,International,Graduating,Male,Undergraduate,121,-20.1026,133.78
+Northern Territory,NT,2020,International,Graduating,Male,Undergraduate,125,-20.1026,133.78
+Northern Territory,NT,2021,International,Graduating,Male,Undergraduate,136,-20.1026,133.78
 Queensland,QLD,2017,Domestic,Beginning,Female,Postgraduate,8758,-23.1364,144.778
 Queensland,QLD,2018,Domestic,Beginning,Female,Postgraduate,8889,-23.1364,144.778
 Queensland,QLD,2019,Domestic,Beginning,Female,Postgraduate,9409,-23.1364,144.778
@@ -399,26 +399,26 @@ Queensland,QLD,2018,Domestic,Continuing,Male,Undergraduate,30286,-23.1364,144.77
 Queensland,QLD,2019,Domestic,Continuing,Male,Undergraduate,30328,-23.1364,144.778
 Queensland,QLD,2020,Domestic,Continuing,Male,Undergraduate,30949,-23.1364,144.778
 Queensland,QLD,2021,Domestic,Continuing,Male,Undergraduate,30334,-23.1364,144.778
-Queensland,QLD,2017,Domestic,Finishing,Female,Postgraduate,6783,-23.1364,144.778
-Queensland,QLD,2018,Domestic,Finishing,Female,Postgraduate,6201,-23.1364,144.778
-Queensland,QLD,2019,Domestic,Finishing,Female,Postgraduate,6403,-23.1364,144.778
-Queensland,QLD,2020,Domestic,Finishing,Female,Postgraduate,6830,-23.1364,144.778
-Queensland,QLD,2021,Domestic,Finishing,Female,Postgraduate,8391,-23.1364,144.778
-Queensland,QLD,2017,Domestic,Finishing,Female,Undergraduate,15356,-23.1364,144.778
-Queensland,QLD,2018,Domestic,Finishing,Female,Undergraduate,15387,-23.1364,144.778
-Queensland,QLD,2019,Domestic,Finishing,Female,Undergraduate,15461,-23.1364,144.778
-Queensland,QLD,2020,Domestic,Finishing,Female,Undergraduate,14818,-23.1364,144.778
-Queensland,QLD,2021,Domestic,Finishing,Female,Undergraduate,16070,-23.1364,144.778
-Queensland,QLD,2017,Domestic,Finishing,Male,Postgraduate,4422,-23.1364,144.778
-Queensland,QLD,2018,Domestic,Finishing,Male,Postgraduate,4039,-23.1364,144.778
-Queensland,QLD,2019,Domestic,Finishing,Male,Postgraduate,4052,-23.1364,144.778
-Queensland,QLD,2020,Domestic,Finishing,Male,Postgraduate,4255,-23.1364,144.778
-Queensland,QLD,2021,Domestic,Finishing,Male,Postgraduate,4673,-23.1364,144.778
-Queensland,QLD,2017,Domestic,Finishing,Male,Undergraduate,10158,-23.1364,144.778
-Queensland,QLD,2018,Domestic,Finishing,Male,Undergraduate,10153,-23.1364,144.778
-Queensland,QLD,2019,Domestic,Finishing,Male,Undergraduate,9904,-23.1364,144.778
-Queensland,QLD,2020,Domestic,Finishing,Male,Undergraduate,9460,-23.1364,144.778
-Queensland,QLD,2021,Domestic,Finishing,Male,Undergraduate,9835,-23.1364,144.778
+Queensland,QLD,2017,Domestic,Graduating,Female,Postgraduate,6783,-23.1364,144.778
+Queensland,QLD,2018,Domestic,Graduating,Female,Postgraduate,6201,-23.1364,144.778
+Queensland,QLD,2019,Domestic,Graduating,Female,Postgraduate,6403,-23.1364,144.778
+Queensland,QLD,2020,Domestic,Graduating,Female,Postgraduate,6830,-23.1364,144.778
+Queensland,QLD,2021,Domestic,Graduating,Female,Postgraduate,8391,-23.1364,144.778
+Queensland,QLD,2017,Domestic,Graduating,Female,Undergraduate,15356,-23.1364,144.778
+Queensland,QLD,2018,Domestic,Graduating,Female,Undergraduate,15387,-23.1364,144.778
+Queensland,QLD,2019,Domestic,Graduating,Female,Undergraduate,15461,-23.1364,144.778
+Queensland,QLD,2020,Domestic,Graduating,Female,Undergraduate,14818,-23.1364,144.778
+Queensland,QLD,2021,Domestic,Graduating,Female,Undergraduate,16070,-23.1364,144.778
+Queensland,QLD,2017,Domestic,Graduating,Male,Postgraduate,4422,-23.1364,144.778
+Queensland,QLD,2018,Domestic,Graduating,Male,Postgraduate,4039,-23.1364,144.778
+Queensland,QLD,2019,Domestic,Graduating,Male,Postgraduate,4052,-23.1364,144.778
+Queensland,QLD,2020,Domestic,Graduating,Male,Postgraduate,4255,-23.1364,144.778
+Queensland,QLD,2021,Domestic,Graduating,Male,Postgraduate,4673,-23.1364,144.778
+Queensland,QLD,2017,Domestic,Graduating,Male,Undergraduate,10158,-23.1364,144.778
+Queensland,QLD,2018,Domestic,Graduating,Male,Undergraduate,10153,-23.1364,144.778
+Queensland,QLD,2019,Domestic,Graduating,Male,Undergraduate,9904,-23.1364,144.778
+Queensland,QLD,2020,Domestic,Graduating,Male,Undergraduate,9460,-23.1364,144.778
+Queensland,QLD,2021,Domestic,Graduating,Male,Undergraduate,9835,-23.1364,144.778
 Queensland,QLD,2017,International,Beginning,Female,Postgraduate,5814,-23.1364,144.778
 Queensland,QLD,2018,International,Beginning,Female,Postgraduate,6805,-23.1364,144.778
 Queensland,QLD,2019,International,Beginning,Female,Postgraduate,7219,-23.1364,144.778
@@ -459,26 +459,26 @@ Queensland,QLD,2018,International,Continuing,Male,Undergraduate,3612,-23.1364,14
 Queensland,QLD,2019,International,Continuing,Male,Undergraduate,3816,-23.1364,144.778
 Queensland,QLD,2020,International,Continuing,Male,Undergraduate,4409,-23.1364,144.778
 Queensland,QLD,2021,International,Continuing,Male,Undergraduate,4012,-23.1364,144.778
-Queensland,QLD,2017,International,Finishing,Female,Postgraduate,4073,-23.1364,144.778
-Queensland,QLD,2018,International,Finishing,Female,Postgraduate,4740,-23.1364,144.778
-Queensland,QLD,2019,International,Finishing,Female,Postgraduate,5622,-23.1364,144.778
-Queensland,QLD,2020,International,Finishing,Female,Postgraduate,5403,-23.1364,144.778
-Queensland,QLD,2021,International,Finishing,Female,Postgraduate,5688,-23.1364,144.778
-Queensland,QLD,2017,International,Finishing,Female,Undergraduate,3745,-23.1364,144.778
-Queensland,QLD,2018,International,Finishing,Female,Undergraduate,3884,-23.1364,144.778
-Queensland,QLD,2019,International,Finishing,Female,Undergraduate,4128,-23.1364,144.778
-Queensland,QLD,2020,International,Finishing,Female,Undergraduate,3715,-23.1364,144.778
-Queensland,QLD,2021,International,Finishing,Female,Undergraduate,4106,-23.1364,144.778
-Queensland,QLD,2017,International,Finishing,Male,Postgraduate,4397,-23.1364,144.778
-Queensland,QLD,2018,International,Finishing,Male,Postgraduate,4941,-23.1364,144.778
-Queensland,QLD,2019,International,Finishing,Male,Postgraduate,6028,-23.1364,144.778
-Queensland,QLD,2020,International,Finishing,Male,Postgraduate,6199,-23.1364,144.778
-Queensland,QLD,2021,International,Finishing,Male,Postgraduate,5806,-23.1364,144.778
-Queensland,QLD,2017,International,Finishing,Male,Undergraduate,3098,-23.1364,144.778
-Queensland,QLD,2018,International,Finishing,Male,Undergraduate,3143,-23.1364,144.778
-Queensland,QLD,2019,International,Finishing,Male,Undergraduate,3310,-23.1364,144.778
-Queensland,QLD,2020,International,Finishing,Male,Undergraduate,2873,-23.1364,144.778
-Queensland,QLD,2021,International,Finishing,Male,Undergraduate,3164,-23.1364,144.778
+Queensland,QLD,2017,International,Graduating,Female,Postgraduate,4073,-23.1364,144.778
+Queensland,QLD,2018,International,Graduating,Female,Postgraduate,4740,-23.1364,144.778
+Queensland,QLD,2019,International,Graduating,Female,Postgraduate,5622,-23.1364,144.778
+Queensland,QLD,2020,International,Graduating,Female,Postgraduate,5403,-23.1364,144.778
+Queensland,QLD,2021,International,Graduating,Female,Postgraduate,5688,-23.1364,144.778
+Queensland,QLD,2017,International,Graduating,Female,Undergraduate,3745,-23.1364,144.778
+Queensland,QLD,2018,International,Graduating,Female,Undergraduate,3884,-23.1364,144.778
+Queensland,QLD,2019,International,Graduating,Female,Undergraduate,4128,-23.1364,144.778
+Queensland,QLD,2020,International,Graduating,Female,Undergraduate,3715,-23.1364,144.778
+Queensland,QLD,2021,International,Graduating,Female,Undergraduate,4106,-23.1364,144.778
+Queensland,QLD,2017,International,Graduating,Male,Postgraduate,4397,-23.1364,144.778
+Queensland,QLD,2018,International,Graduating,Male,Postgraduate,4941,-23.1364,144.778
+Queensland,QLD,2019,International,Graduating,Male,Postgraduate,6028,-23.1364,144.778
+Queensland,QLD,2020,International,Graduating,Male,Postgraduate,6199,-23.1364,144.778
+Queensland,QLD,2021,International,Graduating,Male,Postgraduate,5806,-23.1364,144.778
+Queensland,QLD,2017,International,Graduating,Male,Undergraduate,3098,-23.1364,144.778
+Queensland,QLD,2018,International,Graduating,Male,Undergraduate,3143,-23.1364,144.778
+Queensland,QLD,2019,International,Graduating,Male,Undergraduate,3310,-23.1364,144.778
+Queensland,QLD,2020,International,Graduating,Male,Undergraduate,2873,-23.1364,144.778
+Queensland,QLD,2021,International,Graduating,Male,Undergraduate,3164,-23.1364,144.778
 South Australia,SA,2017,Domestic,Beginning,Female,Postgraduate,3936,-29.6504,135.783
 South Australia,SA,2018,Domestic,Beginning,Female,Postgraduate,3857,-29.6504,135.783
 South Australia,SA,2019,Domestic,Beginning,Female,Postgraduate,4061,-29.6504,135.783
@@ -519,26 +519,26 @@ South Australia,SA,2018,Domestic,Continuing,Male,Undergraduate,10143,-29.6504,13
 South Australia,SA,2019,Domestic,Continuing,Male,Undergraduate,10737,-29.6504,135.783
 South Australia,SA,2020,Domestic,Continuing,Male,Undergraduate,11199,-29.6504,135.783
 South Australia,SA,2021,Domestic,Continuing,Male,Undergraduate,11085,-29.6504,135.783
-South Australia,SA,2017,Domestic,Finishing,Female,Postgraduate,2843,-29.6504,135.783
-South Australia,SA,2018,Domestic,Finishing,Female,Postgraduate,2858,-29.6504,135.783
-South Australia,SA,2019,Domestic,Finishing,Female,Postgraduate,2960,-29.6504,135.783
-South Australia,SA,2020,Domestic,Finishing,Female,Postgraduate,2844,-29.6504,135.783
-South Australia,SA,2021,Domestic,Finishing,Female,Postgraduate,3467,-29.6504,135.783
-South Australia,SA,2017,Domestic,Finishing,Female,Undergraduate,6547,-29.6504,135.783
-South Australia,SA,2018,Domestic,Finishing,Female,Undergraduate,7148,-29.6504,135.783
-South Australia,SA,2019,Domestic,Finishing,Female,Undergraduate,6904,-29.6504,135.783
-South Australia,SA,2020,Domestic,Finishing,Female,Undergraduate,7151,-29.6504,135.783
-South Australia,SA,2021,Domestic,Finishing,Female,Undergraduate,7927,-29.6504,135.783
-South Australia,SA,2017,Domestic,Finishing,Male,Postgraduate,1676,-29.6504,135.783
-South Australia,SA,2018,Domestic,Finishing,Male,Postgraduate,1695,-29.6504,135.783
-South Australia,SA,2019,Domestic,Finishing,Male,Postgraduate,1612,-29.6504,135.783
-South Australia,SA,2020,Domestic,Finishing,Male,Postgraduate,1614,-29.6504,135.783
-South Australia,SA,2021,Domestic,Finishing,Male,Postgraduate,1804,-29.6504,135.783
-South Australia,SA,2017,Domestic,Finishing,Male,Undergraduate,4314,-29.6504,135.783
-South Australia,SA,2018,Domestic,Finishing,Male,Undergraduate,4506,-29.6504,135.783
-South Australia,SA,2019,Domestic,Finishing,Male,Undergraduate,4385,-29.6504,135.783
-South Australia,SA,2020,Domestic,Finishing,Male,Undergraduate,4375,-29.6504,135.783
-South Australia,SA,2021,Domestic,Finishing,Male,Undergraduate,4535,-29.6504,135.783
+South Australia,SA,2017,Domestic,Graduating,Female,Postgraduate,2843,-29.6504,135.783
+South Australia,SA,2018,Domestic,Graduating,Female,Postgraduate,2858,-29.6504,135.783
+South Australia,SA,2019,Domestic,Graduating,Female,Postgraduate,2960,-29.6504,135.783
+South Australia,SA,2020,Domestic,Graduating,Female,Postgraduate,2844,-29.6504,135.783
+South Australia,SA,2021,Domestic,Graduating,Female,Postgraduate,3467,-29.6504,135.783
+South Australia,SA,2017,Domestic,Graduating,Female,Undergraduate,6547,-29.6504,135.783
+South Australia,SA,2018,Domestic,Graduating,Female,Undergraduate,7148,-29.6504,135.783
+South Australia,SA,2019,Domestic,Graduating,Female,Undergraduate,6904,-29.6504,135.783
+South Australia,SA,2020,Domestic,Graduating,Female,Undergraduate,7151,-29.6504,135.783
+South Australia,SA,2021,Domestic,Graduating,Female,Undergraduate,7927,-29.6504,135.783
+South Australia,SA,2017,Domestic,Graduating,Male,Postgraduate,1676,-29.6504,135.783
+South Australia,SA,2018,Domestic,Graduating,Male,Postgraduate,1695,-29.6504,135.783
+South Australia,SA,2019,Domestic,Graduating,Male,Postgraduate,1612,-29.6504,135.783
+South Australia,SA,2020,Domestic,Graduating,Male,Postgraduate,1614,-29.6504,135.783
+South Australia,SA,2021,Domestic,Graduating,Male,Postgraduate,1804,-29.6504,135.783
+South Australia,SA,2017,Domestic,Graduating,Male,Undergraduate,4314,-29.6504,135.783
+South Australia,SA,2018,Domestic,Graduating,Male,Undergraduate,4506,-29.6504,135.783
+South Australia,SA,2019,Domestic,Graduating,Male,Undergraduate,4385,-29.6504,135.783
+South Australia,SA,2020,Domestic,Graduating,Male,Undergraduate,4375,-29.6504,135.783
+South Australia,SA,2021,Domestic,Graduating,Male,Undergraduate,4535,-29.6504,135.783
 South Australia,SA,2017,International,Beginning,Female,Postgraduate,2709,-29.6504,135.783
 South Australia,SA,2018,International,Beginning,Female,Postgraduate,3306,-29.6504,135.783
 South Australia,SA,2019,International,Beginning,Female,Postgraduate,4475,-29.6504,135.783
@@ -579,26 +579,26 @@ South Australia,SA,2018,International,Continuing,Male,Undergraduate,2287,-29.650
 South Australia,SA,2019,International,Continuing,Male,Undergraduate,2634,-29.6504,135.783
 South Australia,SA,2020,International,Continuing,Male,Undergraduate,2460,-29.6504,135.783
 South Australia,SA,2021,International,Continuing,Male,Undergraduate,2890,-29.6504,135.783
-South Australia,SA,2017,International,Finishing,Female,Postgraduate,1657,-29.6504,135.783
-South Australia,SA,2018,International,Finishing,Female,Postgraduate,2062,-29.6504,135.783
-South Australia,SA,2019,International,Finishing,Female,Postgraduate,2215,-29.6504,135.783
-South Australia,SA,2020,International,Finishing,Female,Postgraduate,2879,-29.6504,135.783
-South Australia,SA,2021,International,Finishing,Female,Postgraduate,3928,-29.6504,135.783
-South Australia,SA,2017,International,Finishing,Female,Undergraduate,1308,-29.6504,135.783
-South Australia,SA,2018,International,Finishing,Female,Undergraduate,1696,-29.6504,135.783
-South Australia,SA,2019,International,Finishing,Female,Undergraduate,1750,-29.6504,135.783
-South Australia,SA,2020,International,Finishing,Female,Undergraduate,1708,-29.6504,135.783
-South Australia,SA,2021,International,Finishing,Female,Undergraduate,1972,-29.6504,135.783
-South Australia,SA,2017,International,Finishing,Male,Postgraduate,1624,-29.6504,135.783
-South Australia,SA,2018,International,Finishing,Male,Postgraduate,1818,-29.6504,135.783
-South Australia,SA,2019,International,Finishing,Male,Postgraduate,2062,-29.6504,135.783
-South Australia,SA,2020,International,Finishing,Male,Postgraduate,2495,-29.6504,135.783
-South Australia,SA,2021,International,Finishing,Male,Postgraduate,3978,-29.6504,135.783
-South Australia,SA,2017,International,Finishing,Male,Undergraduate,1203,-29.6504,135.783
-South Australia,SA,2018,International,Finishing,Male,Undergraduate,1192,-29.6504,135.783
-South Australia,SA,2019,International,Finishing,Male,Undergraduate,1274,-29.6504,135.783
-South Australia,SA,2020,International,Finishing,Male,Undergraduate,1331,-29.6504,135.783
-South Australia,SA,2021,International,Finishing,Male,Undergraduate,1594,-29.6504,135.783
+South Australia,SA,2017,International,Graduating,Female,Postgraduate,1657,-29.6504,135.783
+South Australia,SA,2018,International,Graduating,Female,Postgraduate,2062,-29.6504,135.783
+South Australia,SA,2019,International,Graduating,Female,Postgraduate,2215,-29.6504,135.783
+South Australia,SA,2020,International,Graduating,Female,Postgraduate,2879,-29.6504,135.783
+South Australia,SA,2021,International,Graduating,Female,Postgraduate,3928,-29.6504,135.783
+South Australia,SA,2017,International,Graduating,Female,Undergraduate,1308,-29.6504,135.783
+South Australia,SA,2018,International,Graduating,Female,Undergraduate,1696,-29.6504,135.783
+South Australia,SA,2019,International,Graduating,Female,Undergraduate,1750,-29.6504,135.783
+South Australia,SA,2020,International,Graduating,Female,Undergraduate,1708,-29.6504,135.783
+South Australia,SA,2021,International,Graduating,Female,Undergraduate,1972,-29.6504,135.783
+South Australia,SA,2017,International,Graduating,Male,Postgraduate,1624,-29.6504,135.783
+South Australia,SA,2018,International,Graduating,Male,Postgraduate,1818,-29.6504,135.783
+South Australia,SA,2019,International,Graduating,Male,Postgraduate,2062,-29.6504,135.783
+South Australia,SA,2020,International,Graduating,Male,Postgraduate,2495,-29.6504,135.783
+South Australia,SA,2021,International,Graduating,Male,Postgraduate,3978,-29.6504,135.783
+South Australia,SA,2017,International,Graduating,Male,Undergraduate,1203,-29.6504,135.783
+South Australia,SA,2018,International,Graduating,Male,Undergraduate,1192,-29.6504,135.783
+South Australia,SA,2019,International,Graduating,Male,Undergraduate,1274,-29.6504,135.783
+South Australia,SA,2020,International,Graduating,Male,Undergraduate,1331,-29.6504,135.783
+South Australia,SA,2021,International,Graduating,Male,Undergraduate,1594,-29.6504,135.783
 Tasmania,TAS,2017,Domestic,Beginning,Female,Postgraduate,1148,-42.1383,146.603
 Tasmania,TAS,2018,Domestic,Beginning,Female,Postgraduate,1191,-42.1383,146.603
 Tasmania,TAS,2019,Domestic,Beginning,Female,Postgraduate,1262,-42.1383,146.603
@@ -639,26 +639,26 @@ Tasmania,TAS,2018,Domestic,Continuing,Male,Undergraduate,2803,-42.1383,146.603
 Tasmania,TAS,2019,Domestic,Continuing,Male,Undergraduate,2653,-42.1383,146.603
 Tasmania,TAS,2020,Domestic,Continuing,Male,Undergraduate,2797,-42.1383,146.603
 Tasmania,TAS,2021,Domestic,Continuing,Male,Undergraduate,3249,-42.1383,146.603
-Tasmania,TAS,2017,Domestic,Finishing,Female,Postgraduate,2002,-42.1383,146.603
-Tasmania,TAS,2018,Domestic,Finishing,Female,Postgraduate,3019,-42.1383,146.603
-Tasmania,TAS,2019,Domestic,Finishing,Female,Postgraduate,3178,-42.1383,146.603
-Tasmania,TAS,2020,Domestic,Finishing,Female,Postgraduate,3037,-42.1383,146.603
-Tasmania,TAS,2021,Domestic,Finishing,Female,Postgraduate,3767,-42.1383,146.603
-Tasmania,TAS,2017,Domestic,Finishing,Female,Undergraduate,2350,-42.1383,146.603
-Tasmania,TAS,2018,Domestic,Finishing,Female,Undergraduate,2556,-42.1383,146.603
-Tasmania,TAS,2019,Domestic,Finishing,Female,Undergraduate,2460,-42.1383,146.603
-Tasmania,TAS,2020,Domestic,Finishing,Female,Undergraduate,2397,-42.1383,146.603
-Tasmania,TAS,2021,Domestic,Finishing,Female,Undergraduate,2651,-42.1383,146.603
-Tasmania,TAS,2017,Domestic,Finishing,Male,Postgraduate,571,-42.1383,146.603
-Tasmania,TAS,2018,Domestic,Finishing,Male,Postgraduate,674,-42.1383,146.603
-Tasmania,TAS,2019,Domestic,Finishing,Male,Postgraduate,756,-42.1383,146.603
-Tasmania,TAS,2020,Domestic,Finishing,Male,Postgraduate,707,-42.1383,146.603
-Tasmania,TAS,2021,Domestic,Finishing,Male,Postgraduate,863,-42.1383,146.603
-Tasmania,TAS,2017,Domestic,Finishing,Male,Undergraduate,1241,-42.1383,146.603
-Tasmania,TAS,2018,Domestic,Finishing,Male,Undergraduate,1376,-42.1383,146.603
-Tasmania,TAS,2019,Domestic,Finishing,Male,Undergraduate,1347,-42.1383,146.603
-Tasmania,TAS,2020,Domestic,Finishing,Male,Undergraduate,1184,-42.1383,146.603
-Tasmania,TAS,2021,Domestic,Finishing,Male,Undergraduate,1402,-42.1383,146.603
+Tasmania,TAS,2017,Domestic,Graduating,Female,Postgraduate,2002,-42.1383,146.603
+Tasmania,TAS,2018,Domestic,Graduating,Female,Postgraduate,3019,-42.1383,146.603
+Tasmania,TAS,2019,Domestic,Graduating,Female,Postgraduate,3178,-42.1383,146.603
+Tasmania,TAS,2020,Domestic,Graduating,Female,Postgraduate,3037,-42.1383,146.603
+Tasmania,TAS,2021,Domestic,Graduating,Female,Postgraduate,3767,-42.1383,146.603
+Tasmania,TAS,2017,Domestic,Graduating,Female,Undergraduate,2350,-42.1383,146.603
+Tasmania,TAS,2018,Domestic,Graduating,Female,Undergraduate,2556,-42.1383,146.603
+Tasmania,TAS,2019,Domestic,Graduating,Female,Undergraduate,2460,-42.1383,146.603
+Tasmania,TAS,2020,Domestic,Graduating,Female,Undergraduate,2397,-42.1383,146.603
+Tasmania,TAS,2021,Domestic,Graduating,Female,Undergraduate,2651,-42.1383,146.603
+Tasmania,TAS,2017,Domestic,Graduating,Male,Postgraduate,571,-42.1383,146.603
+Tasmania,TAS,2018,Domestic,Graduating,Male,Postgraduate,674,-42.1383,146.603
+Tasmania,TAS,2019,Domestic,Graduating,Male,Postgraduate,756,-42.1383,146.603
+Tasmania,TAS,2020,Domestic,Graduating,Male,Postgraduate,707,-42.1383,146.603
+Tasmania,TAS,2021,Domestic,Graduating,Male,Postgraduate,863,-42.1383,146.603
+Tasmania,TAS,2017,Domestic,Graduating,Male,Undergraduate,1241,-42.1383,146.603
+Tasmania,TAS,2018,Domestic,Graduating,Male,Undergraduate,1376,-42.1383,146.603
+Tasmania,TAS,2019,Domestic,Graduating,Male,Undergraduate,1347,-42.1383,146.603
+Tasmania,TAS,2020,Domestic,Graduating,Male,Undergraduate,1184,-42.1383,146.603
+Tasmania,TAS,2021,Domestic,Graduating,Male,Undergraduate,1402,-42.1383,146.603
 Tasmania,TAS,2017,International,Beginning,Female,Postgraduate,820,-42.1383,146.603
 Tasmania,TAS,2018,International,Beginning,Female,Postgraduate,816,-42.1383,146.603
 Tasmania,TAS,2019,International,Beginning,Female,Postgraduate,958,-42.1383,146.603
@@ -699,26 +699,26 @@ Tasmania,TAS,2018,International,Continuing,Male,Undergraduate,681,-42.1383,146.6
 Tasmania,TAS,2019,International,Continuing,Male,Undergraduate,646,-42.1383,146.603
 Tasmania,TAS,2020,International,Continuing,Male,Undergraduate,735,-42.1383,146.603
 Tasmania,TAS,2021,International,Continuing,Male,Undergraduate,680,-42.1383,146.603
-Tasmania,TAS,2017,International,Finishing,Female,Postgraduate,472,-42.1383,146.603
-Tasmania,TAS,2018,International,Finishing,Female,Postgraduate,620,-42.1383,146.603
-Tasmania,TAS,2019,International,Finishing,Female,Postgraduate,680,-42.1383,146.603
-Tasmania,TAS,2020,International,Finishing,Female,Postgraduate,827,-42.1383,146.603
-Tasmania,TAS,2021,International,Finishing,Female,Postgraduate,712,-42.1383,146.603
-Tasmania,TAS,2017,International,Finishing,Female,Undergraduate,470,-42.1383,146.603
-Tasmania,TAS,2018,International,Finishing,Female,Undergraduate,481,-42.1383,146.603
-Tasmania,TAS,2019,International,Finishing,Female,Undergraduate,584,-42.1383,146.603
-Tasmania,TAS,2020,International,Finishing,Female,Undergraduate,529,-42.1383,146.603
-Tasmania,TAS,2021,International,Finishing,Female,Undergraduate,545,-42.1383,146.603
-Tasmania,TAS,2017,International,Finishing,Male,Postgraduate,400,-42.1383,146.603
-Tasmania,TAS,2018,International,Finishing,Male,Postgraduate,540,-42.1383,146.603
-Tasmania,TAS,2019,International,Finishing,Male,Postgraduate,596,-42.1383,146.603
-Tasmania,TAS,2020,International,Finishing,Male,Postgraduate,883,-42.1383,146.603
-Tasmania,TAS,2021,International,Finishing,Male,Postgraduate,728,-42.1383,146.603
-Tasmania,TAS,2017,International,Finishing,Male,Undergraduate,471,-42.1383,146.603
-Tasmania,TAS,2018,International,Finishing,Male,Undergraduate,491,-42.1383,146.603
-Tasmania,TAS,2019,International,Finishing,Male,Undergraduate,535,-42.1383,146.603
-Tasmania,TAS,2020,International,Finishing,Male,Undergraduate,479,-42.1383,146.603
-Tasmania,TAS,2021,International,Finishing,Male,Undergraduate,503,-42.1383,146.603
+Tasmania,TAS,2017,International,Graduating,Female,Postgraduate,472,-42.1383,146.603
+Tasmania,TAS,2018,International,Graduating,Female,Postgraduate,620,-42.1383,146.603
+Tasmania,TAS,2019,International,Graduating,Female,Postgraduate,680,-42.1383,146.603
+Tasmania,TAS,2020,International,Graduating,Female,Postgraduate,827,-42.1383,146.603
+Tasmania,TAS,2021,International,Graduating,Female,Postgraduate,712,-42.1383,146.603
+Tasmania,TAS,2017,International,Graduating,Female,Undergraduate,470,-42.1383,146.603
+Tasmania,TAS,2018,International,Graduating,Female,Undergraduate,481,-42.1383,146.603
+Tasmania,TAS,2019,International,Graduating,Female,Undergraduate,584,-42.1383,146.603
+Tasmania,TAS,2020,International,Graduating,Female,Undergraduate,529,-42.1383,146.603
+Tasmania,TAS,2021,International,Graduating,Female,Undergraduate,545,-42.1383,146.603
+Tasmania,TAS,2017,International,Graduating,Male,Postgraduate,400,-42.1383,146.603
+Tasmania,TAS,2018,International,Graduating,Male,Postgraduate,540,-42.1383,146.603
+Tasmania,TAS,2019,International,Graduating,Male,Postgraduate,596,-42.1383,146.603
+Tasmania,TAS,2020,International,Graduating,Male,Postgraduate,883,-42.1383,146.603
+Tasmania,TAS,2021,International,Graduating,Male,Postgraduate,728,-42.1383,146.603
+Tasmania,TAS,2017,International,Graduating,Male,Undergraduate,471,-42.1383,146.603
+Tasmania,TAS,2018,International,Graduating,Male,Undergraduate,491,-42.1383,146.603
+Tasmania,TAS,2019,International,Graduating,Male,Undergraduate,535,-42.1383,146.603
+Tasmania,TAS,2020,International,Graduating,Male,Undergraduate,479,-42.1383,146.603
+Tasmania,TAS,2021,International,Graduating,Male,Undergraduate,503,-42.1383,146.603
 Victoria,VIC,2017,Domestic,Beginning,Female,Postgraduate,16182,-37.0082,144.75
 Victoria,VIC,2018,Domestic,Beginning,Female,Postgraduate,16419,-37.0082,144.75
 Victoria,VIC,2019,Domestic,Beginning,Female,Postgraduate,17004,-37.0082,144.75
@@ -759,26 +759,26 @@ Victoria,VIC,2018,Domestic,Continuing,Male,Undergraduate,39328,-37.0082,144.75
 Victoria,VIC,2019,Domestic,Continuing,Male,Undergraduate,39463,-37.0082,144.75
 Victoria,VIC,2020,Domestic,Continuing,Male,Undergraduate,39754,-37.0082,144.75
 Victoria,VIC,2021,Domestic,Continuing,Male,Undergraduate,39593,-37.0082,144.75
-Victoria,VIC,2017,Domestic,Finishing,Female,Postgraduate,12117,-37.0082,144.75
-Victoria,VIC,2018,Domestic,Finishing,Female,Postgraduate,12559,-37.0082,144.75
-Victoria,VIC,2019,Domestic,Finishing,Female,Postgraduate,12803,-37.0082,144.75
-Victoria,VIC,2020,Domestic,Finishing,Female,Postgraduate,12950,-37.0082,144.75
-Victoria,VIC,2021,Domestic,Finishing,Female,Postgraduate,15737,-37.0082,144.75
-Victoria,VIC,2017,Domestic,Finishing,Female,Undergraduate,20580,-37.0082,144.75
-Victoria,VIC,2018,Domestic,Finishing,Female,Undergraduate,21771,-37.0082,144.75
-Victoria,VIC,2019,Domestic,Finishing,Female,Undergraduate,22214,-37.0082,144.75
-Victoria,VIC,2020,Domestic,Finishing,Female,Undergraduate,21877,-37.0082,144.75
-Victoria,VIC,2021,Domestic,Finishing,Female,Undergraduate,24183,-37.0082,144.75
-Victoria,VIC,2017,Domestic,Finishing,Male,Postgraduate,7635,-37.0082,144.75
-Victoria,VIC,2018,Domestic,Finishing,Male,Postgraduate,7913,-37.0082,144.75
-Victoria,VIC,2019,Domestic,Finishing,Male,Postgraduate,7596,-37.0082,144.75
-Victoria,VIC,2020,Domestic,Finishing,Male,Postgraduate,7904,-37.0082,144.75
-Victoria,VIC,2021,Domestic,Finishing,Male,Postgraduate,9671,-37.0082,144.75
-Victoria,VIC,2017,Domestic,Finishing,Male,Undergraduate,15427,-37.0082,144.75
-Victoria,VIC,2018,Domestic,Finishing,Male,Undergraduate,16050,-37.0082,144.75
-Victoria,VIC,2019,Domestic,Finishing,Male,Undergraduate,16170,-37.0082,144.75
-Victoria,VIC,2020,Domestic,Finishing,Male,Undergraduate,15811,-37.0082,144.75
-Victoria,VIC,2021,Domestic,Finishing,Male,Undergraduate,17185,-37.0082,144.75
+Victoria,VIC,2017,Domestic,Graduating,Female,Postgraduate,12117,-37.0082,144.75
+Victoria,VIC,2018,Domestic,Graduating,Female,Postgraduate,12559,-37.0082,144.75
+Victoria,VIC,2019,Domestic,Graduating,Female,Postgraduate,12803,-37.0082,144.75
+Victoria,VIC,2020,Domestic,Graduating,Female,Postgraduate,12950,-37.0082,144.75
+Victoria,VIC,2021,Domestic,Graduating,Female,Postgraduate,15737,-37.0082,144.75
+Victoria,VIC,2017,Domestic,Graduating,Female,Undergraduate,20580,-37.0082,144.75
+Victoria,VIC,2018,Domestic,Graduating,Female,Undergraduate,21771,-37.0082,144.75
+Victoria,VIC,2019,Domestic,Graduating,Female,Undergraduate,22214,-37.0082,144.75
+Victoria,VIC,2020,Domestic,Graduating,Female,Undergraduate,21877,-37.0082,144.75
+Victoria,VIC,2021,Domestic,Graduating,Female,Undergraduate,24183,-37.0082,144.75
+Victoria,VIC,2017,Domestic,Graduating,Male,Postgraduate,7635,-37.0082,144.75
+Victoria,VIC,2018,Domestic,Graduating,Male,Postgraduate,7913,-37.0082,144.75
+Victoria,VIC,2019,Domestic,Graduating,Male,Postgraduate,7596,-37.0082,144.75
+Victoria,VIC,2020,Domestic,Graduating,Male,Postgraduate,7904,-37.0082,144.75
+Victoria,VIC,2021,Domestic,Graduating,Male,Postgraduate,9671,-37.0082,144.75
+Victoria,VIC,2017,Domestic,Graduating,Male,Undergraduate,15427,-37.0082,144.75
+Victoria,VIC,2018,Domestic,Graduating,Male,Undergraduate,16050,-37.0082,144.75
+Victoria,VIC,2019,Domestic,Graduating,Male,Undergraduate,16170,-37.0082,144.75
+Victoria,VIC,2020,Domestic,Graduating,Male,Undergraduate,15811,-37.0082,144.75
+Victoria,VIC,2021,Domestic,Graduating,Male,Undergraduate,17185,-37.0082,144.75
 Victoria,VIC,2017,International,Beginning,Female,Postgraduate,12374,-37.0082,144.75
 Victoria,VIC,2018,International,Beginning,Female,Postgraduate,15439,-37.0082,144.75
 Victoria,VIC,2019,International,Beginning,Female,Postgraduate,15533,-37.0082,144.75
@@ -819,26 +819,26 @@ Victoria,VIC,2018,International,Continuing,Male,Undergraduate,14579,-37.0082,144
 Victoria,VIC,2019,International,Continuing,Male,Undergraduate,16481,-37.0082,144.75
 Victoria,VIC,2020,International,Continuing,Male,Undergraduate,17845,-37.0082,144.75
 Victoria,VIC,2021,International,Continuing,Male,Undergraduate,18908,-37.0082,144.75
-Victoria,VIC,2017,International,Finishing,Female,Postgraduate,8574,-37.0082,144.75
-Victoria,VIC,2018,International,Finishing,Female,Postgraduate,10076,-37.0082,144.75
-Victoria,VIC,2019,International,Finishing,Female,Postgraduate,12422,-37.0082,144.75
-Victoria,VIC,2020,International,Finishing,Female,Postgraduate,12440,-37.0082,144.75
-Victoria,VIC,2021,International,Finishing,Female,Postgraduate,12269,-37.0082,144.75
-Victoria,VIC,2017,International,Finishing,Female,Undergraduate,11370,-37.0082,144.75
-Victoria,VIC,2018,International,Finishing,Female,Undergraduate,12592,-37.0082,144.75
-Victoria,VIC,2019,International,Finishing,Female,Undergraduate,12869,-37.0082,144.75
-Victoria,VIC,2020,International,Finishing,Female,Undergraduate,12671,-37.0082,144.75
-Victoria,VIC,2021,International,Finishing,Female,Undergraduate,12611,-37.0082,144.75
-Victoria,VIC,2017,International,Finishing,Male,Postgraduate,7484,-37.0082,144.75
-Victoria,VIC,2018,International,Finishing,Male,Postgraduate,8978,-37.0082,144.75
-Victoria,VIC,2019,International,Finishing,Male,Postgraduate,11426,-37.0082,144.75
-Victoria,VIC,2020,International,Finishing,Male,Postgraduate,12151,-37.0082,144.75
-Victoria,VIC,2021,International,Finishing,Male,Postgraduate,10878,-37.0082,144.75
-Victoria,VIC,2017,International,Finishing,Male,Undergraduate,9829,-37.0082,144.75
-Victoria,VIC,2018,International,Finishing,Male,Undergraduate,10517,-37.0082,144.75
-Victoria,VIC,2019,International,Finishing,Male,Undergraduate,10901,-37.0082,144.75
-Victoria,VIC,2020,International,Finishing,Male,Undergraduate,11262,-37.0082,144.75
-Victoria,VIC,2021,International,Finishing,Male,Undergraduate,11119,-37.0082,144.75
+Victoria,VIC,2017,International,Graduating,Female,Postgraduate,8574,-37.0082,144.75
+Victoria,VIC,2018,International,Graduating,Female,Postgraduate,10076,-37.0082,144.75
+Victoria,VIC,2019,International,Graduating,Female,Postgraduate,12422,-37.0082,144.75
+Victoria,VIC,2020,International,Graduating,Female,Postgraduate,12440,-37.0082,144.75
+Victoria,VIC,2021,International,Graduating,Female,Postgraduate,12269,-37.0082,144.75
+Victoria,VIC,2017,International,Graduating,Female,Undergraduate,11370,-37.0082,144.75
+Victoria,VIC,2018,International,Graduating,Female,Undergraduate,12592,-37.0082,144.75
+Victoria,VIC,2019,International,Graduating,Female,Undergraduate,12869,-37.0082,144.75
+Victoria,VIC,2020,International,Graduating,Female,Undergraduate,12671,-37.0082,144.75
+Victoria,VIC,2021,International,Graduating,Female,Undergraduate,12611,-37.0082,144.75
+Victoria,VIC,2017,International,Graduating,Male,Postgraduate,7484,-37.0082,144.75
+Victoria,VIC,2018,International,Graduating,Male,Postgraduate,8978,-37.0082,144.75
+Victoria,VIC,2019,International,Graduating,Male,Postgraduate,11426,-37.0082,144.75
+Victoria,VIC,2020,International,Graduating,Male,Postgraduate,12151,-37.0082,144.75
+Victoria,VIC,2021,International,Graduating,Male,Postgraduate,10878,-37.0082,144.75
+Victoria,VIC,2017,International,Graduating,Male,Undergraduate,9829,-37.0082,144.75
+Victoria,VIC,2018,International,Graduating,Male,Undergraduate,10517,-37.0082,144.75
+Victoria,VIC,2019,International,Graduating,Male,Undergraduate,10901,-37.0082,144.75
+Victoria,VIC,2020,International,Graduating,Male,Undergraduate,11262,-37.0082,144.75
+Victoria,VIC,2021,International,Graduating,Male,Undergraduate,11119,-37.0082,144.75
 Western Australia,WA,2017,Domestic,Beginning,Female,Postgraduate,5247,-25.8483,121.646
 Western Australia,WA,2018,Domestic,Beginning,Female,Postgraduate,5078,-25.8483,121.646
 Western Australia,WA,2019,Domestic,Beginning,Female,Postgraduate,5133,-25.8483,121.646
@@ -879,26 +879,26 @@ Western Australia,WA,2018,Domestic,Continuing,Male,Undergraduate,15288,-25.8483,
 Western Australia,WA,2019,Domestic,Continuing,Male,Undergraduate,15772,-25.8483,121.646
 Western Australia,WA,2020,Domestic,Continuing,Male,Undergraduate,15880,-25.8483,121.646
 Western Australia,WA,2021,Domestic,Continuing,Male,Undergraduate,16015,-25.8483,121.646
-Western Australia,WA,2017,Domestic,Finishing,Female,Postgraduate,4340,-25.8483,121.646
-Western Australia,WA,2018,Domestic,Finishing,Female,Postgraduate,4127,-25.8483,121.646
-Western Australia,WA,2019,Domestic,Finishing,Female,Postgraduate,3908,-25.8483,121.646
-Western Australia,WA,2020,Domestic,Finishing,Female,Postgraduate,3986,-25.8483,121.646
-Western Australia,WA,2021,Domestic,Finishing,Female,Postgraduate,4328,-25.8483,121.646
-Western Australia,WA,2017,Domestic,Finishing,Female,Undergraduate,8657,-25.8483,121.646
-Western Australia,WA,2018,Domestic,Finishing,Female,Undergraduate,8662,-25.8483,121.646
-Western Australia,WA,2019,Domestic,Finishing,Female,Undergraduate,8079,-25.8483,121.646
-Western Australia,WA,2020,Domestic,Finishing,Female,Undergraduate,8307,-25.8483,121.646
-Western Australia,WA,2021,Domestic,Finishing,Female,Undergraduate,8524,-25.8483,121.646
-Western Australia,WA,2017,Domestic,Finishing,Male,Postgraduate,2969,-25.8483,121.646
-Western Australia,WA,2018,Domestic,Finishing,Male,Postgraduate,2803,-25.8483,121.646
-Western Australia,WA,2019,Domestic,Finishing,Male,Postgraduate,2592,-25.8483,121.646
-Western Australia,WA,2020,Domestic,Finishing,Male,Postgraduate,2582,-25.8483,121.646
-Western Australia,WA,2021,Domestic,Finishing,Male,Postgraduate,2782,-25.8483,121.646
-Western Australia,WA,2017,Domestic,Finishing,Male,Undergraduate,5403,-25.8483,121.646
-Western Australia,WA,2018,Domestic,Finishing,Male,Undergraduate,5121,-25.8483,121.646
-Western Australia,WA,2019,Domestic,Finishing,Male,Undergraduate,5144,-25.8483,121.646
-Western Australia,WA,2020,Domestic,Finishing,Male,Undergraduate,5249,-25.8483,121.646
-Western Australia,WA,2021,Domestic,Finishing,Male,Undergraduate,5538,-25.8483,121.646
+Western Australia,WA,2017,Domestic,Graduating,Female,Postgraduate,4340,-25.8483,121.646
+Western Australia,WA,2018,Domestic,Graduating,Female,Postgraduate,4127,-25.8483,121.646
+Western Australia,WA,2019,Domestic,Graduating,Female,Postgraduate,3908,-25.8483,121.646
+Western Australia,WA,2020,Domestic,Graduating,Female,Postgraduate,3986,-25.8483,121.646
+Western Australia,WA,2021,Domestic,Graduating,Female,Postgraduate,4328,-25.8483,121.646
+Western Australia,WA,2017,Domestic,Graduating,Female,Undergraduate,8657,-25.8483,121.646
+Western Australia,WA,2018,Domestic,Graduating,Female,Undergraduate,8662,-25.8483,121.646
+Western Australia,WA,2019,Domestic,Graduating,Female,Undergraduate,8079,-25.8483,121.646
+Western Australia,WA,2020,Domestic,Graduating,Female,Undergraduate,8307,-25.8483,121.646
+Western Australia,WA,2021,Domestic,Graduating,Female,Undergraduate,8524,-25.8483,121.646
+Western Australia,WA,2017,Domestic,Graduating,Male,Postgraduate,2969,-25.8483,121.646
+Western Australia,WA,2018,Domestic,Graduating,Male,Postgraduate,2803,-25.8483,121.646
+Western Australia,WA,2019,Domestic,Graduating,Male,Postgraduate,2592,-25.8483,121.646
+Western Australia,WA,2020,Domestic,Graduating,Male,Postgraduate,2582,-25.8483,121.646
+Western Australia,WA,2021,Domestic,Graduating,Male,Postgraduate,2782,-25.8483,121.646
+Western Australia,WA,2017,Domestic,Graduating,Male,Undergraduate,5403,-25.8483,121.646
+Western Australia,WA,2018,Domestic,Graduating,Male,Undergraduate,5121,-25.8483,121.646
+Western Australia,WA,2019,Domestic,Graduating,Male,Undergraduate,5144,-25.8483,121.646
+Western Australia,WA,2020,Domestic,Graduating,Male,Undergraduate,5249,-25.8483,121.646
+Western Australia,WA,2021,Domestic,Graduating,Male,Undergraduate,5538,-25.8483,121.646
 Western Australia,WA,2017,International,Beginning,Female,Postgraduate,2336,-25.8483,121.646
 Western Australia,WA,2018,International,Beginning,Female,Postgraduate,2594,-25.8483,121.646
 Western Australia,WA,2019,International,Beginning,Female,Postgraduate,3065,-25.8483,121.646
@@ -939,23 +939,23 @@ Western Australia,WA,2018,International,Continuing,Male,Undergraduate,4650,-25.8
 Western Australia,WA,2019,International,Continuing,Male,Undergraduate,4667,-25.8483,121.646
 Western Australia,WA,2020,International,Continuing,Male,Undergraduate,4759,-25.8483,121.646
 Western Australia,WA,2021,International,Continuing,Male,Undergraduate,4341,-25.8483,121.646
-Western Australia,WA,2017,International,Finishing,Female,Postgraduate,1703,-25.8483,121.646
-Western Australia,WA,2018,International,Finishing,Female,Postgraduate,1518,-25.8483,121.646
-Western Australia,WA,2019,International,Finishing,Female,Postgraduate,1787,-25.8483,121.646
-Western Australia,WA,2020,International,Finishing,Female,Postgraduate,2085,-25.8483,121.646
-Western Australia,WA,2021,International,Finishing,Female,Postgraduate,2359,-25.8483,121.646
-Western Australia,WA,2017,International,Finishing,Female,Undergraduate,3649,-25.8483,121.646
-Western Australia,WA,2018,International,Finishing,Female,Undergraduate,3206,-25.8483,121.646
-Western Australia,WA,2019,International,Finishing,Female,Undergraduate,3126,-25.8483,121.646
-Western Australia,WA,2020,International,Finishing,Female,Undergraduate,3234,-25.8483,121.646
-Western Australia,WA,2021,International,Finishing,Female,Undergraduate,3016,-25.8483,121.646
-Western Australia,WA,2017,International,Finishing,Male,Postgraduate,1707,-25.8483,121.646
-Western Australia,WA,2018,International,Finishing,Male,Postgraduate,1767,-25.8483,121.646
-Western Australia,WA,2019,International,Finishing,Male,Postgraduate,1873,-25.8483,121.646
-Western Australia,WA,2020,International,Finishing,Male,Postgraduate,2047,-25.8483,121.646
-Western Australia,WA,2021,International,Finishing,Male,Postgraduate,2244,-25.8483,121.646
-Western Australia,WA,2017,International,Finishing,Male,Undergraduate,3105,-25.8483,121.646
-Western Australia,WA,2018,International,Finishing,Male,Undergraduate,2819,-25.8483,121.646
-Western Australia,WA,2019,International,Finishing,Male,Undergraduate,2783,-25.8483,121.646
-Western Australia,WA,2020,International,Finishing,Male,Undergraduate,2802,-25.8483,121.646
-Western Australia,WA,2021,International,Finishing,Male,Undergraduate,2899,-25.8483,121.646
+Western Australia,WA,2017,International,Graduating,Female,Postgraduate,1703,-25.8483,121.646
+Western Australia,WA,2018,International,Graduating,Female,Postgraduate,1518,-25.8483,121.646
+Western Australia,WA,2019,International,Graduating,Female,Postgraduate,1787,-25.8483,121.646
+Western Australia,WA,2020,International,Graduating,Female,Postgraduate,2085,-25.8483,121.646
+Western Australia,WA,2021,International,Graduating,Female,Postgraduate,2359,-25.8483,121.646
+Western Australia,WA,2017,International,Graduating,Female,Undergraduate,3649,-25.8483,121.646
+Western Australia,WA,2018,International,Graduating,Female,Undergraduate,3206,-25.8483,121.646
+Western Australia,WA,2019,International,Graduating,Female,Undergraduate,3126,-25.8483,121.646
+Western Australia,WA,2020,International,Graduating,Female,Undergraduate,3234,-25.8483,121.646
+Western Australia,WA,2021,International,Graduating,Female,Undergraduate,3016,-25.8483,121.646
+Western Australia,WA,2017,International,Graduating,Male,Postgraduate,1707,-25.8483,121.646
+Western Australia,WA,2018,International,Graduating,Male,Postgraduate,1767,-25.8483,121.646
+Western Australia,WA,2019,International,Graduating,Male,Postgraduate,1873,-25.8483,121.646
+Western Australia,WA,2020,International,Graduating,Male,Postgraduate,2047,-25.8483,121.646
+Western Australia,WA,2021,International,Graduating,Male,Postgraduate,2244,-25.8483,121.646
+Western Australia,WA,2017,International,Graduating,Male,Undergraduate,3105,-25.8483,121.646
+Western Australia,WA,2018,International,Graduating,Male,Undergraduate,2819,-25.8483,121.646
+Western Australia,WA,2019,International,Graduating,Male,Undergraduate,2783,-25.8483,121.646
+Western Australia,WA,2020,International,Graduating,Male,Undergraduate,2802,-25.8483,121.646
+Western Australia,WA,2021,International,Graduating,Male,Undergraduate,2899,-25.8483,121.646
