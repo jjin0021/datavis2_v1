@@ -39,7 +39,7 @@
       "opacity": {
         "field": "Status",
         "scale": {
-          "domain": ["Beginning", "Continuing", "Finishing"],
+          "domain": ["Beginning", "Continuing", "Graduating"],
           "range": [0.4, 0.9, 1]
         }
       },
@@ -80,13 +80,13 @@
             null,
             "Beginning",
             "Continuing",
-            "Finishing"
+            "Graduating"
           ],
           "labels": [
             "Show All",
             "Beginning",
             "Continuing",
-            "Finishing"
+            "Graduating"
           ],
           "name": "Select Status: "
         }
